@@ -76,15 +76,15 @@ My company website showcasing software development services, AI solutions, and d
 
 ## 🛠️ Technologies & Tools
 
-**Frontend:** React.js · Next.js · JavaScript · TypeScript
+**Frontend:** React.js · Next.js · JavaScript
 
 **Backend:** Node.js · Express.js · REST APIs
 
 **Mobile:** Flutter · Dart
 
-**Databases:** MongoDB · MySQL · Oracle · Supabase
+**Databases:** MongoDB · MySQL · Oracle · Supabase · Firebase 
 
-**AI & Automation:** Google Gemini API · Grok · AI Integration · Workflow Automation
+**AI & Automation:** Google Gemini API · OPENAI API · Grok · AI Integration · Workflow Automation · n8n
 
 **Real-Time Systems:** WebSockets · Real-Time Messaging · Live Updates
 
