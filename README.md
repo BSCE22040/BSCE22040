@@ -96,7 +96,7 @@ My company website showcasing software development services, AI solutions, and d
 
 ## 🤝 Let's Connect
 
-- 🌐 **Portfolio:** [ANOVA Group of Technologies](https://anova-group-of-technologies.vercel.app/)
+- 🌐 **Portfolio:** [ANOVA Group of Technologies](https://www.anovagroupoftechnologies.com/)
 - 💼 **LinkedIn:** [Abdullah Zahid](https://www.linkedin.com/in/abdullah-zahid-445584280/)
 - 📧 **Business Email:** [anovagrouptech@gmail.com](mailto:anovagrouptech@gmail.com)
 - 📧 **Personal Email:** [abdullahzahid2600@gmail.com](mailto:abdullahzahid2600@gmail.com)
