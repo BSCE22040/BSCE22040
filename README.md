@@ -3,7 +3,7 @@
 
 ### Full-Stack Developer | Mobile Applications | AI-Powered Solutions
 
-🌐 **[Explore My Portfolio — ANOVA Group of Technologies](https://anova-group-of-technologies.vercel.app/)**
+🌐 **[Explore My Portfolio — ANOVA Group of Technologies](https://www.anovagroupoftechnologies.com/)**
 
 *Explore my projects, software development services, and AI-powered solutions.*
 
